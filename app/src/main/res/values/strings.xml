@@ -4,4 +4,8 @@
     <string name="action_settings">Settings</string>
     <string name="title_settings">Settings</string>
     <string name="title_game">New Game</string>
+    <string name="alert_dialog_ok">Yes</string>
+    <string name="alert_dialog_cancel">No</string>
+    <string name="alert_dialog_win_title">Congratulations you win :) Try again ?</string>
+    <string name="alert_dialog_lose_title">OOOPS you lose ! Try again ?</string>
 </resources>
